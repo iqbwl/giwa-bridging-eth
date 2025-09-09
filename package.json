@@ -1,0 +1,21 @@
+{
+  "name": "giwa-bridging-eth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.1",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "tsx": "^4.20.5"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "viem": "^2.37.4"
+  }
+}
