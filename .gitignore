@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+pnpm-lock.yaml
+package.json
+
+# Build outputs
+dist/
+build/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment / secrets
+.env
+.env.*
+*.local
+*.secret
+*.key
+
+# Private key or sensitive config
+secret.json
+private_key.txt
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
