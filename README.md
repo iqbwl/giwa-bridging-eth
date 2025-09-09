@@ -1,5 +1,3 @@
----
-
 # GIWA Bridging (ETH Sepolia ↔ GIWA Sepolia)
 
 Bridge ETH between **Ethereum Sepolia (L1)** and **GIWA Sepolia (L2)** using [viem](https://viem.sh) and OP Stack–compatible contracts.
