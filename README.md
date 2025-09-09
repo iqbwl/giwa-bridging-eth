@@ -34,6 +34,8 @@ Both scripts accept an **amount** via CLI and enforce **amount > 0.001 ETH** and
 Store your private key in a `.env` file at the project root:
 
 ```bash
+git clone https://github.com/iqbwl/giwa-bridging-eth.git
+cd giwa-bridging-eth/
 cp .env.example .env
 ```
 
