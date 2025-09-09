@@ -194,8 +194,8 @@ Withdrawal flow:
 
 ## 📚 References
 
-* GIWA docs — Bridging ETH
-* Viem Documentation
-* Optimism OP Stack
+* [GIWA docs — Bridging ETH](https://docs.giwa.io/get-started/bridging/eth?utm_source=chatgpt.com)
+* [Viem Documentation](https://viem.sh)
+* {Optimism OP Stack](https://stack.optimism.io)
 
 ---
