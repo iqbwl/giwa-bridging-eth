@@ -51,6 +51,7 @@ TEST_PRIVATE_KEY=0xYOUR_PRIVATE_KEY_HERE
 ## 📦 Installation
 
 ```bash
+npm install -g pnpm@latest-10
 pnpm init
 pnpm add -D tsx @types/node
 pnpm add viem dotenv
